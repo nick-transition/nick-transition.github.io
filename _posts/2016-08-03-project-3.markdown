@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Chemistry
 modal-id: 3
 date: 2016-08-03
 img: Chemistry.png

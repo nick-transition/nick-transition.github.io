@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Physics
 modal-id: 2
 date: 2016-08-01
 img: Physics.png
