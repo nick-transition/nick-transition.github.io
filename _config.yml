@@ -31,8 +31,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Nick Stoddart
+  location: Fayetteville,AR
   social: Around the Web
   credits: Credits
 
@@ -40,6 +40,8 @@ footer:
 social:
   - title: facebook
     url: https://www.facebook.com/nwatutors/home
+  - title: linkedin
+    url: https://www.linkedin.com/in/nick-stoddart-a6126a33
 
 # Postal address (add as many lines as necessary)
 address:
