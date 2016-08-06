@@ -6,6 +6,6 @@ img: Math.png
 alt: image-alt
 project-date: August 2016
 category: Math
-description: Math description
+description: Math is a challenging subject for everyone, but with guidance and passion it can be the foundation for a successful career.
 
 ---

@@ -6,6 +6,6 @@ img: Physics.png
 alt: image-alt
 project-date: August 2016
 category: Physics
-description: Physics description
+description: Physics has the capacity to capture the imagination. From projectile motion to magnets and lenses NWA Tutor can help your child excel.
 
 ---

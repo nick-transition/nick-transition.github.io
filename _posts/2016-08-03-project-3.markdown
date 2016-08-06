@@ -6,6 +6,6 @@ img: Chemistry.png
 alt: image-alt
 project-date: August 2016
 category: Chemistry
-description: Chemistry description
+description: Chemistry can be intimidating, but a little understanding goes a long way. NWA Tutors helps students grasp the subject one element at a time.
 
 ---
